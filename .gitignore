@@ -1,0 +1,6 @@
+node_modules
+bin
+package-lock.json
+
+my-app/node_modules
+my-app/contracts
